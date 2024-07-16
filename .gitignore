@@ -1,0 +1,10 @@
+__pycache__/
+**/.vscode/
+**/.DS_Store
+
+.streamlit/secrets.toml
+
+**.wav
+**.flac
+**.mp3
+**.aac
